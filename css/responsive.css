@@ -1,0 +1,21 @@
+
+
+
+
+/*Notebook Device*/
+@media (min-width: 768px) and (max-width: 990px){
+	
+}
+
+/*Tab Device*/
+@media (min-width: 575px) and (max-width: 768px){
+	
+}
+
+
+/*Mobile Device*/
+@media (min-width: 320px) and (max-width: 575px){
+	.navbar-light .navbar-toggler{color: #fff;}
+	.banner-section h1{font-size: 5px;}
+
+}
